@@ -1,0 +1,24 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+a.nav-link.jz-nav {
+  font-size: 1rem;
+  color: gray;
+}
+
+.jz-project1 {
+  background-color: #5AC5D1;
+}
+
+.jz-project2 {
+  background-color: #FFA9AA;
+}
+
+.jz-project3 {
+  background-color: #FCD97B;
+}
